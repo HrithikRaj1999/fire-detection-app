@@ -1,0 +1,17 @@
+.carousel-item {
+
+  display: none;
+  background: #2f2e2e;
+  transition: transform 0.6s ease-in-out;
+  height: 70%;
+}
+.carousel{
+  margin:5%;
+}
+.carousel-item.active,
+.carousel-item-left,
+.carousel-item-right {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+}

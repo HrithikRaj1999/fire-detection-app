@@ -1,0 +1,31 @@
+#NavbarContainer{
+    margin: 0%;
+  
+}
+.bg-light{
+    background-color: rgb(119, 192, 226) !important;
+}
+.nav-link {
+    display: block;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #212529;
+    text-decoration: underline;
+    --bs-nav-link-hover-color: rgb(79, 33, 204);
+}
+.navbar-brand {
+    font-weight: bold;
+}
+#logo{
+    width: 100px;
+    height: 70px;
+    padding: 0px;
+    margin:0%;  
+}
+.nav-link-hover{
+    background-color:rgb(22, 148, 85);
+    font-size: 30px;
+}
+.navbar {
+    --bs-navbar-padding-y: 0;
+}

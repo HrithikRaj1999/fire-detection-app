@@ -1,0 +1,36 @@
+.wpb_wrapper{
+    color: rgb(0, 0, 0);
+    padding: 3rem;
+   
+}
+.wpb{
+    border-radius: 5rem;
+    margin: 10rem;
+    background-color: rgb(189, 164, 164);
+}
+h2{
+    text-align: center;
+    margin: 2rem;
+    color: rgb(0, 0, 0);
+}
+p{
+   margin: 0.2rem;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    margin: 2rem;
+
+    color: rgb(255, 255, 255);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding: 6%;
+  }
+  body{
+    background-color: rgb(255, 255, 255);
+  }
+  
